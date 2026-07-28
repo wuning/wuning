@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/hero.png" alt="我設計那些重要但不喧嘩的時刻——不是讓人驚喜的瞬間，而是讓人能放心往下走的那一步" width="62%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png">
+    <img src="assets/hero.png" alt="我設計那些重要但不喧嘩的時刻——不是讓人驚喜的瞬間，而是讓人能放心往下走的那一步" width="62%">
+  </picture>
 </p>
 
 <h3 align="center">Evelyn Wu · 吳緗穎 — Senior Product Designer</h3>
