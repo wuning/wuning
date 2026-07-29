@@ -77,3 +77,13 @@ An early hand-coded marketing / ICO-style landing page (2019).
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion">
 </p>
+
+---
+
+<p align="center">
+  <a href="https://evelynwu.work"><img src="https://img.shields.io/badge/Portfolio-evelynwu.work-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/wuning0219"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="mailto:evelynwu.design@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <br><br>
+  <em>Let's design something clear together.</em>
+</p>
