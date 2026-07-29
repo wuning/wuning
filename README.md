@@ -24,7 +24,6 @@ I started out **hand-coding the web** (HTML / CSS / JavaScript) and moved throug
 | :-- | :-- | :-- |
 | **[Portfolio → evelynwu.work](https://evelynwu.work)** | UX / product design case studies | Next.js · TypeScript |
 | **[incidentAI](https://github.com/wuning/incidentAI)** · [live ↗](https://wuning.github.io/incidentAI/) | Incident-management dashboard with real-time charts | React · Vite · Recharts |
-| **[evelynwu.design](https://github.com/wuning/evelynwu.design)** | Portfolio focused on blockchain & security UX | Next.js · TypeScript |
 | **[crypto-landing-2019](https://github.com/wuning/crypto-landing-2019)** · [live ↗](https://wuning.github.io/crypto-landing-2019/) | An early hand-coded landing page (2019) | HTML · CSS · jQuery |
 
 ## Journey
