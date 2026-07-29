@@ -20,11 +20,39 @@ I started out **hand-coding the web** (HTML / CSS / JavaScript) and moved throug
 
 ## Selected Work
 
-| Project | What it is | Built with | 
-| :-- | :-- | :-- |
-| **[Portfolio → evelynwu.work](https://evelynwu.work)** | UX / product design case studies | Next.js · TypeScript |
-| **[incidentAI](https://github.com/wuning/incidentAI)** · [live ↗](https://wuning.github.io/incidentAI/) | Incident-management dashboard with real-time charts | React · Vite · Recharts |
-| **[crypto-landing-2019](https://github.com/wuning/crypto-landing-2019)** · [live ↗](https://wuning.github.io/crypto-landing-2019/) | An early hand-coded landing page (2019) | HTML · CSS · jQuery |
+### [Portfolio → evelynwu.work](https://evelynwu.work)
+UX / product design case studies · `Next.js` · `TypeScript`
+
+<table>
+<tr>
+<td width="56%">
+<a href="https://wuning.github.io/incidentAI/"><img src="assets/thumb-incidentai.png" alt="incidentAI dashboard" width="100%"></a>
+</td>
+<td width="44%" valign="top">
+
+**[incidentAI](https://github.com/wuning/incidentAI)** · [live ↗](https://wuning.github.io/incidentAI/)
+
+Incident-management dashboard with real-time charts — alerts, system health, MTTR and AI insights.
+
+`React` · `Vite` · `Recharts`
+
+</td>
+</tr>
+<tr>
+<td width="56%">
+<a href="https://wuning.github.io/crypto-landing-2019/"><img src="assets/thumb-crypto.png" alt="crypto landing page" width="100%"></a>
+</td>
+<td width="44%" valign="top">
+
+**[crypto-landing-2019](https://github.com/wuning/crypto-landing-2019)** · [live ↗](https://wuning.github.io/crypto-landing-2019/)
+
+An early hand-coded marketing / ICO-style landing page (2019).
+
+`HTML` · `CSS` · `jQuery`
+
+</td>
+</tr>
+</table>
 
 ## Journey
 
