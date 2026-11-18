@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://evelynwu.work"><img src="https://img.shields.io/badge/Portfolio-evelynwu.work-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/wuning0219"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/evelynwudesign"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:evelynwu.design@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;
   <img src="https://img.shields.io/badge/Based_in-Taiwan_·_Remote-16a34a?style=flat-square" alt="Taiwan / Remote">
 </p>
@@ -82,7 +82,7 @@ An early hand-coded marketing / ICO-style landing page (2019).
 
 <p align="center">
   <a href="https://evelynwu.work"><img src="https://img.shields.io/badge/Portfolio-evelynwu.work-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/wuning0219"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/evelynwudesign"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
   <a href="mailto:evelynwu.design@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <br><br>
   <em>Let's design something clear together.</em>
